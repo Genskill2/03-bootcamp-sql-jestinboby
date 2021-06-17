@@ -18,7 +18,7 @@ insert into subjects values('1','C');
 insert into subjects values('2','UNIX');
 insert into subjects values('3','Technology');
 insert into subjects values('4','Go');
-insert into subjects values('5','Science Ficton');
+insert into subjects values('5','Science Fiction');
 insert into subjects values('6','Productivity');
 insert into subjects values('7','Psychology');
 insert into subjects values('8','Politics');
